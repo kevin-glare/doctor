@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  user: one
+  city: MyString
+  street: MyString
+  house: MyString
+  flat: 1
+
+two:
+  patient: two
+  user: two
+  city: MyString
+  street: MyString
+  house: MyString
+  flat: 1
